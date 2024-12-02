@@ -70,9 +70,9 @@ For the proper functioning of the injector it is imperative that the entirety of
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouadessalim&repo=Cookedgrabber&show_owner=true)](https://github.com/mouadessalim/CookedGrabber)
 
-- Or Creal-Stealer (best python stealer) by [Ayhuuu](https://github.com/Ayhuuu)
+- Or Creal-Stealer (best python stealer) by [can-kat]([https://github.com/can-kat])
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ayhuuu&repo=Creal-Stealer&show_owner=true)](https://github.com/Ayhuuu/Creal-Stealer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=can-kat&repo=Creal-Stealer&show_owner=true)](https://github.com/can-kat/cstealer)
 
 ## Disclaimer
 - Only for **educationnal, personal or good puposes**.
