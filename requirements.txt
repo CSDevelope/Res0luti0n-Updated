@@ -1,5 +1,10 @@
-pyinstaller
-cx_freeze
+requests
+Crypto.Cipher
+pycryptodome
+pystyle
 colorama
-pypresence
-pypiwin32
+auto_py_to_exe
+pyinstaller
+wmi
+fade
+ctypes
